@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Posts from './Components/Posts';
+import About from './Components/About';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       Stay Tuned!</i></p>
       </header>
       <Posts/>
+      <About/>
     </div>
   );
 }
