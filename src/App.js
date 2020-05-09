@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Posts from './Components/Posts';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       Featuring pieces of literature I write and everything outside my development life, I guess :) <br/>
       Stay Tuned!</i></p>
       </header>
+      <Posts/>
     </div>
   );
 }
