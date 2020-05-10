@@ -13,6 +13,7 @@ function App() {
       </header>
       <Posts/>
       <About/>
+      <Links/>
     </div>
   );
 }
