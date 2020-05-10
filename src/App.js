@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Posts from './Components/Posts';
 import About from './Components/About';
+import Links from './Components/Links';
 
 function App() {
   return (
