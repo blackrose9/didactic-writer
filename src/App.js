@@ -12,9 +12,15 @@ function App() {
       Featuring pieces of literature I write and everything outside my development life, I guess :) <br/>
       Stay Tuned!</i></p>
       </header>
-      <Posts/>
-      <About/>
-      <Links/>
+      <section className="Section-posts">
+        <Posts/>
+      </section>
+      <section className="Section-about">
+        <About/>
+      </section>
+      <section className="Section-links">
+        <Links/>
+      </section>
     </div>
   );
 }
