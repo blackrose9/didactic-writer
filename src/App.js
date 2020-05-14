@@ -3,6 +3,7 @@ import './App.css';
 import Posts from './Components/Posts';
 import About from './Components/About';
 import Links from './Components/Links';
+import TicTacToe from './Components/TicTacToe';
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
       </section>
       <section className="Section-links">
         <Links/>
+      </section>
+      <section className="Section-game">
+        <TicTacToe/>
       </section>
     </div>
   );
