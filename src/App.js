@@ -3,7 +3,7 @@ import './App.css';
 import Posts from './Components/Posts';
 import About from './Components/About';
 import Links from './Components/Links';
-import TicTacToe from './Components/TicTacToe';
+import TicTacToe from './Components/GameComponent/TicTacToe';
 
 function App() {
   return (

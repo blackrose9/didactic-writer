@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Game from './Game'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -14,7 +15,7 @@ export class TicTacToe extends Component {
                </Col>
                <Col>
                <h1>Play a game of TicTacToe</h1>
-               <p>Like a seed germinating and sprouting...</p>
+               <Game/>
                </Col>
             </Row>
          </Container>
