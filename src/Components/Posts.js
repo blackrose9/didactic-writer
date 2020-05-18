@@ -21,7 +21,7 @@ export class Posts extends Component {
    render(){
       console.log(this.state);
       return (
-         <div>
+         <div className='Section-posts'>
             <h1>Stuff I write</h1>
             <p>Here will be where a list of the stuff I have written. Called using Wordpress Headless CMS <br/> So exciting!</p>
             <Card>
