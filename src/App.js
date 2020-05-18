@@ -3,29 +3,22 @@ import './App.css';
 import Posts from './Components/Posts';
 import About from './Components/About';
 import Links from './Components/Links';
-import TicTacToe from './Components/GameComponent/TicTacToe';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Navigation from './Components/Navigation';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <p><i>Hi there my portfolio is coming to this page soon. <br/>
-      Featuring pieces of literature I write and everything outside my development life, I guess :) <br/>
-      Stay Tuned!</i></p>
-      </header>
-      <section className="Section-posts">
-        <Posts/>
-      </section>
-      <section className="Section-about">
-        <About/>
-      </section>
-      <section className="Section-links">
-        <Links/>
-      </section>
-      <section className="Section-game">
-        <TicTacToe/>
-      </section>
-    </div>
+    <BrowserRouter>
+      <div>
+        <Navigation/>
+        <Switch>
+          <Route path='/' component={About} exact/>
+          <Route path='/posts' component={Posts}/>
+          <Route path='/links' component={Links}/>
+          <Route component={Error}/>
+        </Switch>
+      </div>
+    </BrowserRouter>
   );
 }
 
