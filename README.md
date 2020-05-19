@@ -2,7 +2,7 @@
 #### blackrose9 is a writer also
 
 ### Description
-Portfolio created with ReactJS and Headless Wordpress CMS REST API
+Portfolio created with React and Blogger API. (in progress)
 
 ### How to run this project on your local machine
 * Download the project
