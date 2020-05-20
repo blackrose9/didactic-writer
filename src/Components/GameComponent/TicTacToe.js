@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col'
 export class TicTacToe extends Component {
    render(){
       return(
-         <Container>
+         <Container className='Section-game'>
             <Row>
                <Col>
                   <h1>React and I</h1>

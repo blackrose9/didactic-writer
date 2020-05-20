@@ -15,6 +15,9 @@ const Navigation = () => {
             <Nav.Item>
                <Nav.Link><NavLink to='/links'>My Links</NavLink></Nav.Link>
             </Nav.Item>
+            <Nav.Item>
+               <Nav.Link><NavLink to='/game'>A Game</NavLink></Nav.Link>
+            </Nav.Item>
          </Nav>
       </div>
    )
