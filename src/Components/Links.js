@@ -12,7 +12,7 @@ import Button from 'react-bootstrap/Button';
 export class Links extends Component {
    render(){
       return(
-         <Container>
+         <Container className='Section-links'>
             <h1>Check out other stuff I have done</h1>
             <Row>
                <Col>
