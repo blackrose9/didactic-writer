@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Card from 'react-bootstrap/Card'
 import './component.css';
-''
+
 const BLOGID = '1462989236198393176';
 const APIKEY = '';
 
