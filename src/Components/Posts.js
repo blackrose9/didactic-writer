@@ -3,9 +3,21 @@ import Card from 'react-bootstrap/Card'
 import './component.css';
 
 const BLOGID = '1462989236198393176';
-const APIKEY = '';
+const APIKEY = 'AIzaSyATmL86iRDf6Z1xbiBhI4ox_4M-F3T8i0Q';
 
 export class Posts extends Component {
+   state = {
+      posts: []
+   }
+   componentDidMount(){
+      // https://www.googleapis.com/blogger/v3/blogs/1462989236198393176/posts?key=AIzaSyATmL86iRDf6Z1xbiBhI4ox_4M-F3T8i0Q
+      fetch('https://www.googleapis.com/blogger/v3/blogs/BLOGID/posts?key=APIKEY')
+      .then(res => res.json())
+      .then((data) => {
+         this.setState({ posts: data})
+      })
+      .catch(console.log)
+   }
    render(){
       return (
          <div className='Section-posts'>
