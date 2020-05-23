@@ -5,7 +5,7 @@ const PostItem = ({posts}) => {
    return(
       <div className='Section-posts'>
          <h1>Stuff I write</h1>
-         <p>Here will be where a list of the stuff I have written. Called using Blogger API <br/> So exciting!</p>
+         <p>Here is a list of the stuff I have written. Called using Blogger API <br/> So exciting!</p>
 
          {posts.map((post) => (
             <Card>
