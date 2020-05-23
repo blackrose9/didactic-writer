@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.aef83898.chunk.css",
-    "main.js": "./static/js/main.4ce0f240.chunk.js",
-    "main.js.map": "./static/js/main.4ce0f240.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fd94d7ba.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fd94d7ba.js.map",
-    "static/css/2.9de105d4.chunk.css": "./static/css/2.9de105d4.chunk.css",
-    "static/js/2.b5940119.chunk.js": "./static/js/2.b5940119.chunk.js",
-    "static/js/2.b5940119.chunk.js.map": "./static/js/2.b5940119.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.0747d2be5e405a6ef76a7487f3f8482d.js": "./precache-manifest.0747d2be5e405a6ef76a7487f3f8482d.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.9de105d4.chunk.css.map": "./static/css/2.9de105d4.chunk.css.map",
-    "static/css/main.aef83898.chunk.css.map": "./static/css/main.aef83898.chunk.css.map",
-    "static/js/2.b5940119.chunk.js.LICENSE.txt": "./static/js/2.b5940119.chunk.js.LICENSE.txt"
+    "main.css": "/didactic-writer/static/css/main.aef83898.chunk.css",
+    "main.js": "/didactic-writer/static/js/main.9c502e85.chunk.js",
+    "main.js.map": "/didactic-writer/static/js/main.9c502e85.chunk.js.map",
+    "runtime-main.js": "/didactic-writer/static/js/runtime-main.591a796d.js",
+    "runtime-main.js.map": "/didactic-writer/static/js/runtime-main.591a796d.js.map",
+    "static/css/2.9de105d4.chunk.css": "/didactic-writer/static/css/2.9de105d4.chunk.css",
+    "static/js/2.8bd1143c.chunk.js": "/didactic-writer/static/js/2.8bd1143c.chunk.js",
+    "static/js/2.8bd1143c.chunk.js.map": "/didactic-writer/static/js/2.8bd1143c.chunk.js.map",
+    "index.html": "/didactic-writer/index.html",
+    "precache-manifest.2a59e7e29b0d57c8943ec0f6fbac2744.js": "/didactic-writer/precache-manifest.2a59e7e29b0d57c8943ec0f6fbac2744.js",
+    "service-worker.js": "/didactic-writer/service-worker.js",
+    "static/css/2.9de105d4.chunk.css.map": "/didactic-writer/static/css/2.9de105d4.chunk.css.map",
+    "static/css/main.aef83898.chunk.css.map": "/didactic-writer/static/css/main.aef83898.chunk.css.map",
+    "static/js/2.8bd1143c.chunk.js.LICENSE.txt": "/didactic-writer/static/js/2.8bd1143c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd94d7ba.js",
+    "static/js/runtime-main.591a796d.js",
     "static/css/2.9de105d4.chunk.css",
-    "static/js/2.b5940119.chunk.js",
+    "static/js/2.8bd1143c.chunk.js",
     "static/css/main.aef83898.chunk.css",
-    "static/js/main.4ce0f240.chunk.js"
+    "static/js/main.9c502e85.chunk.js"
   ]
 }
