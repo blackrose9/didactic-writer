@@ -5,10 +5,6 @@ import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
- import blogger from '../img/blogger1.png'
- import em from '../img/em.jpg'
- import me from '../img/me.png'
-
 export class Links extends Component {
    render(){
       return(

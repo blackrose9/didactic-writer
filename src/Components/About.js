@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import TicTacToe from './GameComponent/TicTacToe';
 
 export class About extends Component {
    render(){
