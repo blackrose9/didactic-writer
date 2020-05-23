@@ -14,6 +14,6 @@ Open http://localhost:3000 in your browser to view the app.
 /* coming soon */
 
 ### To-Do
-* Make the site look nice (all pages)
-* Add pagination to the articles page
-* Update Links page
+* Make the site look nice (all pages).
+* Add pagination to the articles page.
+* Add PostDetails page so it doesn't redirect to Blogger.

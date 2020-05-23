@@ -13,15 +13,14 @@ export class Links extends Component {
    render(){
       return(
          <Container className='Section-links'>
-            <h1>Check out other stuff I have done</h1>
+            <h1>Some nice links you can check out</h1>
             <Row>
                <Col>
                   <Card style={{ width: '20rem' }}>
-                     <Card.Img variant="top" src={blogger}/>
                      <Card.Body>
                         <Card.Title>Blogger</Card.Title>
                         <Card.Text>
-                           This is my main blog where I write.
+                           This is my main blog where I write random articles about life and it's wonders.
                         </Card.Text>
                         <Button variant="info" href="https://blackrose722.blogspot.com/">Visit Blog</Button>
                      </Card.Body>
@@ -29,23 +28,21 @@ export class Links extends Component {
                </Col>
                <Col>
                   <Card style={{ width: '20rem' }}>
-                     <Card.Img variant="top" src={em}/>
                      <Card.Body>
-                        <Card.Title>Extraordinary Monk</Card.Title>
+                        <Card.Title>blackrose9</Card.Title>
                         <Card.Text>
-                           This is another blog where I write, I guess more meaningful stuff, I guess.
+                           Coming soon is a blog about my programming chronicals. 
                         </Card.Text>
-                        <Button variant="info" href="https://extraordinarymonk.wordpress.com/">Visit Blog</Button>
+                        <Button variant="info" href=''>Visit Blog</Button>
                      </Card.Body>
                   </Card>
                </Col>
                <Col>
                   <Card style={{ width: '20rem' }}>
-                     <Card.Img variant="top" src={me}/>
                      <Card.Body>
                         <Card.Title>My Website</Card.Title>
                         <Card.Text>
-                           Take a look at the other side of my life.
+                           If you are curious about the other side of my life, check this website out.
                         </Card.Text>
                         <Button variant="info" href="https://blackrose9.github.io/">Personal Website</Button>
                      </Card.Body>
