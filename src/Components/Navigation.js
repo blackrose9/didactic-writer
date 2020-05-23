@@ -7,16 +7,16 @@ const Navigation = () => {
       <div>
          <Nav variant='tabs' defaultActivityKey='/'>
             <Nav.Item>
-               <Nav.Link><NavLink to='/'>Home</NavLink></Nav.Link>
+               <Nav.Link><NavLink to='/'><h5>Home</h5></NavLink></Nav.Link>
             </Nav.Item>
             <Nav.Item>
-               <Nav.Link><NavLink to='/posts'>Articles</NavLink></Nav.Link>
+               <Nav.Link><NavLink to='/posts'><h5>Articles</h5></NavLink></Nav.Link>
             </Nav.Item>
             <Nav.Item>
-               <Nav.Link><NavLink to='/links'>My Links</NavLink></Nav.Link>
+               <Nav.Link><NavLink to='/links'><h5>My Links</h5></NavLink></Nav.Link>
             </Nav.Item>
             <Nav.Item>
-               <Nav.Link><NavLink to='/game'>A Game</NavLink></Nav.Link>
+               <Nav.Link><NavLink to='/game'><h5>A Game</h5></NavLink></Nav.Link>
             </Nav.Item>
          </Nav>
       </div>

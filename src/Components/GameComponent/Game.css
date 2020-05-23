@@ -23,8 +23,6 @@ body {
  }
  
  .square {
-   color: white;
-   background: #282c34;
    border: 2px solid #999;
    float: left;
    font-size: 40px;

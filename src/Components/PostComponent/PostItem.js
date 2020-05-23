@@ -11,7 +11,7 @@ const PostItem = ({posts}) => {
             <Card>
                <Card.Body>
                   <Card.Title>{post.title}</Card.Title>
-                     <Card.Text><a href={post.url}>See this post</a></Card.Text>
+                     <Card.Subtitle><a href={post.url}>See this post</a></Card.Subtitle>
                      <footer className="blockquote-footer">
                      {post.author.displayName}
                      </footer>
