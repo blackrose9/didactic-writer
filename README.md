@@ -11,7 +11,7 @@ This will run the app in development mode.
 Open http://localhost:3000 in your browser to view the app.
 
 ### Deployment 
-/* coming soon */
+https://blackrose9.github.io/didactic-writer/#/
 
 ### To-Do
 * Make the site look nice (all pages).
