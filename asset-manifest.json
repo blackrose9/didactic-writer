@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/didactic-writer/static/css/main.aef83898.chunk.css",
+    "main.js": "/didactic-writer/static/js/main.aec0a129.chunk.js",
+    "main.js.map": "/didactic-writer/static/js/main.aec0a129.chunk.js.map",
+    "runtime-main.js": "/didactic-writer/static/js/runtime-main.591a796d.js",
+    "runtime-main.js.map": "/didactic-writer/static/js/runtime-main.591a796d.js.map",
+    "static/css/2.9de105d4.chunk.css": "/didactic-writer/static/css/2.9de105d4.chunk.css",
+    "static/js/2.b5940119.chunk.js": "/didactic-writer/static/js/2.b5940119.chunk.js",
+    "static/js/2.b5940119.chunk.js.map": "/didactic-writer/static/js/2.b5940119.chunk.js.map",
+    "index.html": "/didactic-writer/index.html",
+    "precache-manifest.e127d0d76de1081b924ba5cb8a2080a4.js": "/didactic-writer/precache-manifest.e127d0d76de1081b924ba5cb8a2080a4.js",
+    "service-worker.js": "/didactic-writer/service-worker.js",
+    "static/css/2.9de105d4.chunk.css.map": "/didactic-writer/static/css/2.9de105d4.chunk.css.map",
+    "static/css/main.aef83898.chunk.css.map": "/didactic-writer/static/css/main.aef83898.chunk.css.map",
+    "static/js/2.b5940119.chunk.js.LICENSE.txt": "/didactic-writer/static/js/2.b5940119.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591a796d.js",
+    "static/css/2.9de105d4.chunk.css",
+    "static/js/2.b5940119.chunk.js",
+    "static/css/main.aef83898.chunk.css",
+    "static/js/main.aec0a129.chunk.js"
+  ]
+}
