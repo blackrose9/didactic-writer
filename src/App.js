@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Posts from './Components/Posts';
+import Posts from './Components/PostComponent/Posts';
 import About from './Components/About';
 import Links from './Components/Links';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
