@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/didactic-writer/precache-manifest.2a59e7e29b0d57c8943ec0f6fbac2744.js"
+  "/didactic-writer/precache-manifest.e08cab2581450bf1231cf13b11c16d19.js"
 );
 
 self.addEventListener('message', (event) => {
