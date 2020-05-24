@@ -1,5 +1,5 @@
-# ExtraordinaryMonk
-#### blackrose9 is a writer also
+# The Didactic Writer
+#### blackrose9 is also a writer
 
 ### Description
 Portfolio created with React and Blogger API. (in progress)

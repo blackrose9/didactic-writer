@@ -16,7 +16,7 @@ export class Links extends Component {
                      <Card.Body>
                         <Card.Title>Blogger</Card.Title>
                         <Card.Text>
-                           This is my main blog where I write random articles about life and it's wonders.
+                           This is my personal blog where I write random articles about life and it's wonders.
                         </Card.Text>
                         <Button variant="info" href="https://blackrose722.blogspot.com/">Visit Blog</Button>
                      </Card.Body>
@@ -25,11 +25,11 @@ export class Links extends Component {
                <Col>
                   <Card style={{ width: '20rem' }}>
                      <Card.Body>
-                        <Card.Title>blackrose9</Card.Title>
+                        <Card.Title>GreatMonk</Card.Title>
                         <Card.Text>
-                           Coming soon is a blog about my programming chronicals. 
+                           A blog about my programming chronicals. 
                         </Card.Text>
-                        <Button variant="info" href=''>Visit Blog</Button>
+                        <Button variant="info" href='https://medium.com/@greatmonk'>Visit Blog</Button>
                      </Card.Body>
                   </Card>
                </Col>
