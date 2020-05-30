@@ -8,6 +8,7 @@ export class BlogPosts extends Component{
    state = {
       posts: []
    }
+   // `https://www.googleapis.com/blogger/v3/blogs/${BLOGID}/posts?&pageToken=CgkIChjB2qug3CkQ2IrNrtie5aYU&key=${APIKEY}`
    componentDidMount(){
       fetch(`https://www.googleapis.com/blogger/v3/blogs/${BLOGID}/posts?key=${APIKEY}`)
       .then(res => res.json())
